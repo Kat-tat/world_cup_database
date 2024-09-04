@@ -1,5 +1,5 @@
 # world_cup_database
-A relational database made with PostgreSQL for freecodecamp relational databases certification.
+A relational database made with PostgreSQL for freecodecamp relational databases certification with a shell script to insert data.
 
 
 I had to create a database, [worldcup](https://github.com/Kat-tat/world_cup_database/blob/main/worldcup.sql) corresponding to a provided csv file.
